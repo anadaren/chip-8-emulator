@@ -1,3 +1,3 @@
 # chip-8-emulator
 
-thanks to freeCodeCamp for the tutorial
+A CHIP-8 emulator, written in Javascript
